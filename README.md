@@ -1,0 +1,141 @@
+```
+Roberto Nogueira  BSd EE, MSd CE
+Solution Integrator Experienced - Certified by Ericsson
+```
+
+# Everyday Rails Testing with RSpec
+
+![ebook_cover](images/everyday-rails-testing-with-rspec.png)
+
+## Contents
+
+```
+Table of Contents
+
+Preface to this edition
+Acknowledgements
+1. Introduction
+[ ] Why RSpec?
+[ ] Who should read this book
+[ ] My testing philosophy
+[ ] How the book is organized
+[ ] Downloading the sample code
+[ ] Code conventions
+[ ] Discussion and errata
+[ ] About the sample application
+2. Setting up RSpec
+[ ] Gemfile
+[ ] Test database
+[ ] RSpec configuration
+[ ] Generators
+[ ] Applying your database schema to test
+[ ] Questions
+[ ] Exercises
+3. Model specs
+[ ] Anatomy of a model spec
+[ ] Creating a model spec
+[ ] The new RSpec syntax
+[ ] Testing validations
+[ ] Testing instance methods
+[ ] Testing class methods and scopes
+[ ] Testing for failures
+[ ] More about matchers
+[ ] DRYer specs with describe, context, before and after
+[ ] Summary
+[ ] Question
+[ ] Exercises
+4. Generating test data with factories
+[ ] Factories versus fixtures
+[ ] Adding factories to the application
+[ ] Simplifying our syntax
+[ ] Associations and inheritance in factories
+[ ] Generating more realistic fake data
+[ ] Advanced associations
+[ ] How to abuse factories
+[ ] Summary
+[ ] Exercises
+5. Basic controller specs
+[ ] Why test controllers?
+[ ] Why not test controllers?
+[ ] Controller testing basics
+[ ] Organization
+[ ] Setting up test data
+[ ] Testing GET requests
+[ ] Testing POST requests
+[ ] Testing PATCH requests
+[ ] Testing DELETE requests
+[ ] Testing non-CRUD methods
+[ ] Testing nested routes
+[ ] Testing non-HTML controller output
+[ ] Summary
+[ ] Exercises
+6. Advanced controller specs
+[ ] Getting ready
+[ ] Testing the admin and user roles
+[ ] Testing the guest role
+[ ] Summary
+[ ] Exercise
+7. Controller spec cleanup
+[ ] Shared examples
+[ ] Creating helper macros
+[ ] Using custom RSpec matchers
+[ ] Summary
+[ ] Exercises
+8. Feature specs
+[ ] Why feature specs?
+[ ] What about Cucumber?
+[ ] Additional dependencies
+[ ] A basic feature spec
+[ ] From requests to features
+[ ] Adding feature specs
+[ ] Debugging feature specs
+[ ] A little refactoring
+[ ] Including JavaScript interactions
+[ ] Capybara drivers
+[ ] Waiting for JavaScript
+[ ] Summary
+[ ] Exercises
+9. Speeding up specs
+[ ] Optional, terse syntax
+[ ] Mocks and stubs
+[ ] Automation with Guard and Spring
+[ ] Tags
+[ ] Other speedy solutions
+[ ] Summary
+[ ] Exercises
+10. Testing the rest
+[ ] Testing email delivery
+[ ] Testing file uploads
+[ ] Testing the time
+[ ] Testing web services
+[ ] Testing your application’s API
+[ ] Testing rake tasks
+[ ] Summary
+[ ] Exercises
+11. Toward test-driven development
+[ ] Defining a feature
+[ ] From red to green
+[ ] Cleaning up
+[ ] Summary
+[ ] Exercises
+12. Parting advice
+[ ] Practice testing the small things
+[ ] Be aware of what you’re doing
+[ ] Short spikes are OK
+[ ] Write a little, test a little is also OK
+[ ] Strive to write feature specs first
+[ ] Make time for testing
+[ ] Keep it simple
+[ ] Don’t revert to old habits!
+[ ] Use your tests to make your code better
+[ ] Sell others on the benefits of automated testing
+[ ] Keep practicing
+[ ] Goodbye, for now
+[ ] More testing resources for Rails
+[ ] RSpec
+[ ] Rails testing
+[ ] About Everyday Rails
+[ ] About the author
+[ ] Colophon
+[ ] Change log
+```
