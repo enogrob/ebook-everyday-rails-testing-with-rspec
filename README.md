@@ -15,21 +15,23 @@ Table of Contents
 Preface to this edition
 Acknowledgements
 1. Introduction
-[ ] Why RSpec?
-[ ] Who should read this book
-[ ] My testing philosophy
-[ ] How the book is organized
-[ ] Downloading the sample code
-[ ] Code conventions
-[ ] Discussion and errata
-[ ] About the sample application
+[x] Why RSpec?
+[x] Who should read this book
+[x] My testing philosophy
+[x] How the book is organized
+[x] Downloading the sample code
+[x] Code conventions
+[x] Discussion and errata
+[x] A note about gem versions
+[x] About the sample application
 2. Setting up RSpec
-[ ] Gemfile
-[ ] Test database
-[ ] RSpec configuration
-[ ] Generators
-[ ] Applying your database schema to test
-[ ] Questions
+[x] Gemfile
+[x] Test database
+[x] RSpec configuration
+[x] Faster test suite start times with the rspec binstub
+[x] Generators
+[x] Summary
+[x] Questions
 [ ] Exercises
 3. Model specs
 [ ] Anatomy of a model spec
