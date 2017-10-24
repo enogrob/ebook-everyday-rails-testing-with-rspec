@@ -32,7 +32,7 @@ Acknowledgements
 [x] Generators
 [x] Summary
 [x] Questions
-[ ] Exercises
+[x] Exercises
 3. Model specs
 [ ] Anatomy of a model spec
 [ ] Creating a model spec
