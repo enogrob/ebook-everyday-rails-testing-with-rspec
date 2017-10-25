@@ -34,18 +34,18 @@ Acknowledgements
 [x] Questions
 [x] Exercises
 3. Model specs
-[ ] Anatomy of a model spec
-[ ] Creating a model spec
-[ ] The new RSpec syntax
-[ ] Testing validations
-[ ] Testing instance methods
-[ ] Testing class methods and scopes
-[ ] Testing for failures
-[ ] More about matchers
-[ ] DRYer specs with describe, context, before and after
-[ ] Summary
-[ ] Question
-[ ] Exercises
+[x] Anatomy of a model spec
+[x] Creating a model spec
+[x] The new RSpec syntax
+[x] Testing validations
+[x] Testing instance methods
+[x] Testing class methods and scopes
+[x] Testing for failures
+[x] More about matchers
+[x] DRYer specs with describe, context, before and after
+[x] Summary
+[x] Question
+[x] Exercises
 4. Generating test data with factories
 [ ] Factories versus fixtures
 [ ] Adding factories to the application
