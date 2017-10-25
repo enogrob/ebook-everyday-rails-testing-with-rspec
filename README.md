@@ -53,10 +53,10 @@ Acknowledgements
 [x] Generating unique data with sequences
 [x] Associations in factories
 [x] Avoiding duplication in factories
-[ ] Callbacks
-[ ] How to use factories safely
-[ ] Summary
-[ ] Exercises
+[x] Callbacks
+[x] How to use factories safely
+[x] Summary
+[x] Exercises
 5. Basic controller specs
 [ ] Why test controllers?
 [ ] Why not test controllers?
