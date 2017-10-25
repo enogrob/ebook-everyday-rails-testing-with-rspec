@@ -52,7 +52,7 @@ Acknowledgements
 [x] Adding factories to the application
 [x] Generating unique data with sequences
 [x] Associations in factories
-[ ] Avoiding duplication in factories
+[x] Avoiding duplication in factories
 [ ] Callbacks
 [ ] How to use factories safely
 [ ] Summary
