@@ -47,13 +47,14 @@ Acknowledgements
 [x] Question
 [x] Exercises
 4. Generating test data with factories
-[ ] Factories versus fixtures
-[ ] Adding factories to the application
-[ ] Simplifying our syntax
-[ ] Associations and inheritance in factories
-[ ] Generating more realistic fake data
-[ ] Advanced associations
-[ ] How to abuse factories
+[x] Factories versus fixtures
+[x] Installing Factory Girl
+[x] Adding factories to the application
+[x] Generating unique data with sequences
+[x] Associations in factories
+[ ] Avoiding duplication in factories
+[ ] Callbacks
+[ ] How to use factories safely
 [ ] Summary
 [ ] Exercises
 5. Basic controller specs
