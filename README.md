@@ -29,6 +29,7 @@ Acknowledgements
 [x] Test database
 [x] RSpec configuration
 [x] Faster test suite start times with the rspec binstub
+[x] Try it out!
 [x] Generators
 [x] Summary
 [x] Questions
@@ -36,7 +37,7 @@ Acknowledgements
 3. Model specs
 [x] Anatomy of a model spec
 [x] Creating a model spec
-[x] The new RSpec syntax
+[x] The RSpec syntax
 [x] Testing validations
 [x] Testing instance methods
 [x] Testing class methods and scopes
@@ -45,8 +46,8 @@ Acknowledgements
 [x] DRYer specs with describe, context, before and after
 [x] Summary
 [x] Question
-[x] Exercises
-4. Generating test data with factories
+[x] Exercise
+4. Creating meaningful test data
 [x] Factories versus fixtures
 [x] Installing Factory Girl
 [x] Adding factories to the application
@@ -66,73 +67,67 @@ Acknowledgements
 [x] Question
 [x] Summary
 [x] Exercises
-6. Advanced controller specs
-[ ] Getting ready
-[ ] Testing the admin and user roles
-[ ] Testing the guest role
-[ ] Summary
-[ ] Exercise
-7. Controller spec cleanup
-[ ] Shared examples
-[ ] Creating helper macros
-[ ] Using custom RSpec matchers
-[ ] Summary
-[ ] Exercises
-8. Feature specs
+6. Feature specs
 [ ] Why feature specs?
-[ ] What about Cucumber?
 [ ] Additional dependencies
 [ ] A basic feature spec
-[ ] From requests to features
-[ ] Adding feature specs
+[ ] The Capybara DSL
 [ ] Debugging feature specs
-[ ] A little refactoring
-[ ] Including JavaScript interactions
-[ ] Capybara drivers
+[ ] Testing JavaScript interactions
+[ ] Headless drivers
 [ ] Waiting for JavaScript
 [ ] Summary
 [ ] Exercises
-9. Speeding up specs
-[ ] Optional, terse syntax
+7. Request specs
+[ ] Request specs versus feature specs
+[ ] Testing GET requests
+[ ] Testing POST requests
+[ ] Replacing controller specs with request specs
+[ ] Summary
+[ ] Exercise
+8. Keeping specs DRY
+[ ] Support modules
+[ ] Lazy-loading with let
+[ ] Shared contexts
+[ ] Custom matchers
+[ ] Aggregating failures
+[ ] Maintaining test readability
+[ ] Summary
+[ ] Exercise
+9. Writing tests faster, and writing faster tests
+[ ] RSpec's terse syntax
+[ ] Editor shortcuts
 [ ] Mocks and stubs
-[ ] Automation with Guard and Spring
-[ ] Tags
-[ ] Other speedy solutions
+[ ] Remove unnecessary tests
+[ ] Take Rails out of the equation
 [ ] Summary
 [ ] Exercises
 10. Testing the rest
-[ ] Testing email delivery
 [ ] Testing file uploads
-[ ] Testing the time
+[ ] Testing background workers
+[ ] Testing email delivery
 [ ] Testing web services
-[ ] Testing your application’s API
-[ ] Testing rake tasks
 [ ] Summary
 [ ] Exercises
 11. Toward test-driven development
 [ ] Defining a feature
 [ ] From red to green
-[ ] Cleaning up
+[ ] Going outside-in
+[ ] The red-green-refactor cycle
 [ ] Summary
 [ ] Exercises
 12. Parting advice
 [ ] Practice testing the small things
-[ ] Be aware of what you’re doing
+[ ] Be aware of what you're doing
 [ ] Short spikes are OK
 [ ] Write a little, test a little is also OK
-[ ] Strive to write feature specs first
+[ ] Try to write integration specs first
 [ ] Make time for testing
 [ ] Keep it simple
-[ ] Don’t revert to old habits!
+[ ] Don't revert to old habits!
 [ ] Use your tests to make your code better
 [ ] Sell others on the benefits of automated testing
 [ ] Keep practicing
 [ ] Goodbye, for now
 [ ] More testing resources for Rails
-[ ] RSpec
-[ ] Rails testing
-[ ] About Everyday Rails
-[ ] About the author
-[ ] Colophon
-[ ] Change log
 ```
