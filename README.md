@@ -57,21 +57,15 @@ Acknowledgements
 [x] How to use factories safely
 [x] Summary
 [x] Exercises
-5. Basic controller specs
-[ ] Why test controllers?
-[ ] Why not test controllers?
-[ ] Controller testing basics
-[ ] Organization
-[ ] Setting up test data
-[ ] Testing GET requests
-[ ] Testing POST requests
-[ ] Testing PATCH requests
-[ ] Testing DELETE requests
-[ ] Testing non-CRUD methods
-[ ] Testing nested routes
-[ ] Testing non-HTML controller output
-[ ] Summary
-[ ] Exercises
+5. Controller specs
+[x] Basic controller specs
+[x] Authenticated controller specs
+[x] Testing user input
+[x] Testing user input errors
+[x] Handling non-HTML output
+[x] Question
+[x] Summary
+[x] Exercises
 6. Advanced controller specs
 [ ] Getting ready
 [ ] Testing the admin and user roles
