@@ -79,12 +79,12 @@ Acknowledgements
 [x] Summary
 [x] Exercises
 7. Request specs
-[ ] Request specs versus feature specs
-[ ] Testing GET requests
-[ ] Testing POST requests
-[ ] Replacing controller specs with request specs
-[ ] Summary
-[ ] Exercise
+[x] Request specs versus feature specs
+[x] Testing GET requests
+[x] Testing POST requests
+[x] Replacing controller specs with request specs
+[x] Summary
+[x] Exercise
 8. Keeping specs DRY
 [ ] Support modules
 [ ] Lazy-loading with let
