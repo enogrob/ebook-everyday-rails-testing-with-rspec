@@ -68,16 +68,16 @@ Acknowledgements
 [x] Summary
 [x] Exercises
 6. Feature specs
-[ ] Why feature specs?
-[ ] Additional dependencies
-[ ] A basic feature spec
-[ ] The Capybara DSL
-[ ] Debugging feature specs
-[ ] Testing JavaScript interactions
-[ ] Headless drivers
-[ ] Waiting for JavaScript
-[ ] Summary
-[ ] Exercises
+[x] Why feature specs?
+[x] Additional dependencies
+[x] A basic feature spec
+[x] The Capybara DSL
+[x] Debugging feature specs
+[x] Testing JavaScript interactions
+[x] Headless drivers
+[x] Waiting for JavaScript
+[x] Summary
+[x] Exercises
 7. Request specs
 [ ] Request specs versus feature specs
 [ ] Testing GET requests
