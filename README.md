@@ -86,9 +86,9 @@ Acknowledgements
 [x] Summary
 [x] Exercise
 8. Keeping specs DRY
-[ ] Support modules
-[ ] Lazy-loading with let
-[ ] Shared contexts
+[x] Support modules
+[x] Lazy-loading with let
+[x] Shared contexts
 [ ] Custom matchers
 [ ] Aggregating failures
 [ ] Maintaining test readability
