@@ -95,13 +95,14 @@ Acknowledgements
 [x] Summary
 [x] Exercise
 9. Writing tests faster, and writing faster tests
-[ ] RSpec's terse syntax
-[ ] Editor shortcuts
-[ ] Mocks and stubs
-[ ] Remove unnecessary tests
-[ ] Take Rails out of the equation
-[ ] Summary
-[ ] Exercises
+[x] RSpec's terse syntax
+[x] Editor shortcuts
+[x] Mocks and stubs
+[x] Tabs
+[x] Remove unnecessary tests
+[x] Take Rails out of the equation
+[x] Summary
+[x] Exercises
 10. Testing the rest
 [ ] Testing file uploads
 [ ] Testing background workers
