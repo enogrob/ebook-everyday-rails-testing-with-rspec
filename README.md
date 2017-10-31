@@ -89,11 +89,11 @@ Acknowledgements
 [x] Support modules
 [x] Lazy-loading with let
 [x] Shared contexts
-[ ] Custom matchers
-[ ] Aggregating failures
-[ ] Maintaining test readability
-[ ] Summary
-[ ] Exercise
+[x] Custom matchers
+[x] Aggregating failures
+[x] Maintaining test readability
+[x] Summary
+[x] Exercise
 9. Writing tests faster, and writing faster tests
 [ ] RSpec's terse syntax
 [ ] Editor shortcuts
