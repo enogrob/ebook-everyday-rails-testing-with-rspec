@@ -118,17 +118,17 @@ Acknowledgements
 [ ] Summary
 [ ] Exercises
 12. Parting advice
-[ ] Practice testing the small things
-[ ] Be aware of what you're doing
-[ ] Short spikes are OK
-[ ] Write a little, test a little is also OK
-[ ] Try to write integration specs first
-[ ] Make time for testing
-[ ] Keep it simple
-[ ] Don't revert to old habits!
-[ ] Use your tests to make your code better
-[ ] Sell others on the benefits of automated testing
-[ ] Keep practicing
-[ ] Goodbye, for now
-[ ] More testing resources for Rails
+[x] Practice testing the small things
+[x] Be aware of what you're doing
+[x] Short spikes are OK
+[x] Write a little, test a little is also OK
+[x] Try to write integration specs first
+[x] Make time for testing
+[x] Keep it simple
+[x] Don't revert to old habits!
+[x] Use your tests to make your code better
+[x] Sell others on the benefits of automated testing
+[x] Keep practicing
+[x] Goodbye, for now
+[x] More testing resources for Rails
 ```
