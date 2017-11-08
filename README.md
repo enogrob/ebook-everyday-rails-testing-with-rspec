@@ -104,12 +104,12 @@ Acknowledgements
 [x] Summary
 [x] Exercises
 10. Testing the rest
-[ ] Testing file uploads
-[ ] Testing background workers
-[ ] Testing email delivery
-[ ] Testing web services
-[ ] Summary
-[ ] Exercises
+[x] Testing file uploads
+[x] Testing background workers
+[x] Testing email delivery
+[x] Testing web services
+[x] Summary
+[x] Exercises
 11. Toward test-driven development
 [ ] Defining a feature
 [ ] From red to green
