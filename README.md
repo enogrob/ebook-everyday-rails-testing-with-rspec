@@ -1,4 +1,4 @@
-```
+```intellij-idea-keymap
 Roberto Nogueira  BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -111,8 +111,8 @@ Acknowledgements
 [x] Summary
 [x] Exercises
 11. Toward test-driven development
-[ ] Defining a feature
-[ ] From red to green
+[x] Defining a feature
+[x] From red to green
 [ ] Going outside-in
 [ ] The red-green-refactor cycle
 [ ] Summary
